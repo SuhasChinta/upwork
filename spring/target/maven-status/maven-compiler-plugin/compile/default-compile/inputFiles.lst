@@ -1,0 +1,15 @@
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/SecurityConfig.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/UpworkApplication.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/controller/HomeController.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/controller/ProfileController.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/controller/UserController.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/dto/ProfileDTO.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/dto/UserDTO.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/model/ClientProfile.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/model/FreelancerProfile.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/model/User.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/repository/ClientProfileRepository.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/repository/FreelancerProfileRepository.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/repository/UserRepository.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/services/ProfileService.java
+/home/suhasc/Documents/upwork/src/main/java/com/upwork/upwork/services/UserService.java

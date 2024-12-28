@@ -1,0 +1,15 @@
+com/upwork/upwork/model/User.class
+com/upwork/upwork/controller/ProfileController.class
+com/upwork/upwork/services/UserService.class
+com/upwork/upwork/repository/FreelancerProfileRepository.class
+com/upwork/upwork/UpworkApplication.class
+com/upwork/upwork/repository/UserRepository.class
+com/upwork/upwork/model/ClientProfile.class
+com/upwork/upwork/dto/UserDTO.class
+com/upwork/upwork/repository/ClientProfileRepository.class
+com/upwork/upwork/controller/HomeController.class
+com/upwork/upwork/controller/UserController.class
+com/upwork/upwork/dto/ProfileDTO.class
+com/upwork/upwork/services/ProfileService.class
+com/upwork/upwork/SecurityConfig.class
+com/upwork/upwork/model/FreelancerProfile.class
